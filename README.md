@@ -1,3 +1,12 @@
+# Implementaciones
+
+Tenía un error cuando crea el contenedor de docker que he enseñado en clase, no he podido resolverlo, que tiene problema utilizando Rocker que no me debaja probar el funcionamiento de la práctica.
+
+Pero la implementación de Merlin2RoomPatrolFsmAction, MissionNode, pddl y Launcher están implementado. 
+
+Faltaba la parte de rotación del robot, que está incompleto por no poder lanzar el proyecto en mi ordenador.
+
+
 # merlin2-hospital-patrolling
 
 La practica está enfocada al desarrollo de comportamientos simples con una arquitectura cognitiva para ROS 2. Para ello, se va a emplear el simulador de un robot móvil y la arquitectura cognitiva MERLIN2 [[1]](#1) que se basa en YASMIN [[2]](#2) y en KANT [[3]](#3).
