@@ -1,6 +1,6 @@
 # Implementaciones
 
-Tenía un error cuando crea el contenedor de docker que he enseñado en clase, no he podido resolverlo, que tiene problema utilizando Rocker que no me debaja probar el funcionamiento de la práctica.
+Tenía un error cuando crea el contenedor de docker que enseñé por meet, no ha sido resulto por tener problemas utilizando Rocker, y no me deja probar el funcionamiento de la práctica.
 
 Pero la implementación de Merlin2RoomPatrolFsmAction, MissionNode, pddl y Launcher están implementado. 
 
