@@ -2,10 +2,7 @@
 
 Tenía un error cuando crea el contenedor de docker que enseñé por meet, no ha sido resulto por tener problemas utilizando Rocker, y no me deja probar el funcionamiento de la práctica.
 
-Pero la implementación de Merlin2RoomPatrolFsmAction, MissionNode, pddl y Launcher están implementado. 
-
-Faltaba la parte de rotación del robot, que está incompleto por no poder lanzar el proyecto en mi ordenador.
-
+Pero la implementaciones de Merlin2RoomPatrolFsmAction, MissionNode, pddl y Launcher están hecho. 
 
 # merlin2-hospital-patrolling
 
